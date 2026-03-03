@@ -1,0 +1,5 @@
+length=len("Archana Sharma")
+print("your name has "+str(length) +"characters")
+newLength=str(length)
+print(type(newLength))
+print(type(length))

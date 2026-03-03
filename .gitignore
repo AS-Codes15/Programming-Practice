@@ -1,0 +1,55 @@
+# -----------------------------
+# C/C++
+# -----------------------------
+# Compiled object files
+*.o
+*.obj
+
+# Compiled executable files
+*.exe
+*.out
+*.app
+*.dll
+*.so
+
+# -----------------------------
+# Python
+# -----------------------------
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# -----------------------------
+# Java
+# -----------------------------
+# Compiled class files
+*.class
+
+# Package Files (Optional: remove if you actually want to upload compiled jars)
+*.jar
+*.war
+*.ear
+
+# -----------------------------
+# IDEs and Operating System
+# -----------------------------
+# Windows thumbnail cache
+Thumbs.db
+
+# macOS custom folder attributes (just in case you ever switch)
+.DS_Store
+
+# Common IDE folders (VS Code, IntelliJ, Eclipse)
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+Dev-Cpp/
