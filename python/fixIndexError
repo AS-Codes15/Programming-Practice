@@ -1,3 +1,0 @@
-names=['archu'',aru','arshi','gul','manya']
-length=len(names)
-print(f"hii {names[-1]}")
