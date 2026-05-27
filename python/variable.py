@@ -1,6 +1,0 @@
-name=input("what is your name?")
-l=len(name)
-print(name,l)
-name=input("what is your name")
-l=len(name)
-print(name,l)
